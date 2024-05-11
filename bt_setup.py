@@ -1,6 +1,7 @@
 import streamlit as st
 
 def main():
+    st.image("1x.jpeg", use_column_width=True)
     st.title("Rowing Combinations Explorer")
 
     # Input fields for user-defined limits
