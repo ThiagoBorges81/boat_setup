@@ -29,6 +29,6 @@ def main():
                     st.write(f"- Gearing: {gearing:.2f}")
                     st.write(f"- Oar Crossing: {oar_crossing}")
                     st.write("")  # Add empty line for spacing
-
+    st.write("version:0.0.1")
 if __name__ == "__main__":
     main()
