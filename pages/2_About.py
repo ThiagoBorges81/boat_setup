@@ -10,7 +10,7 @@ st.subheader(
 st.markdown(
     """
     - 1st - Click on the 'Boat_setup' link on the sidebar;  
-    - 2nd - Choose the dessired values in the fields and the app will show you all possible combinations;  
+    - 2nd - Choose the desired values in the fields and the app will show you all possible combinations;  
     
     
     """
